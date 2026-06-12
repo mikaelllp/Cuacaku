@@ -48,15 +48,11 @@
 
 ---
 
-## 📸 Screenshot
-
-> _(Tambahkan 4 screenshot dari Expo Go setelah menjalankan app di HP fisik)_
+## Screenshot Aplikasi
 
 | Kosong | Loading | Sukses | Error |
-|--------|---------|--------|-------|
-| ![Cuacaku/.expo/empty.png](Cuacaku/.expo/empty.png) | ![Cuacaku/.expo/loading.png](Cuacaku/.expo/loading.png) | ![Cuacaku/.expo/succes.png](Cuacaku/.expo/succes.png) | ![Cuacaku/.expo/error.png](Cuacaku/.expo/error.png) |
-
----
+|---------|---------|---------|---------|
+| ![](/assets/empty.png) | ![](/assets/loading.png) | ![](/assets/succes.png) | ![](/assets/error.png) |
 
 ## 🚀 Cara Menjalankan
 
