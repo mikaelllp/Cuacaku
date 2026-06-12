@@ -54,7 +54,7 @@
 
 | Kosong | Loading | Sukses | Error |
 |--------|---------|--------|-------|
-| ![Empty](Cuacaku/.expo/empty.png) | ![Loading](Cuacaku/.expo/loading.png) | ![Success](Cuacaku/.expo/succes.png) | ![Error](Cuacaku/.expo/error.png) |
+| ![Cuacaku/.expo/empty.png](Cuacaku/.expo/empty.png) | ![Cuacaku/.expo/loading.png](Cuacaku/.expo/loading.png) | ![Cuacaku/.expo/succes.png](Cuacaku/.expo/succes.png) | ![Cuacaku/.expo/error.png](Cuacaku/.expo/error.png) |
 
 ---
 
