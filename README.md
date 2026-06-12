@@ -129,4 +129,4 @@ feat: indikator siang/malam dari field is_day Open-Meteo
 ## 👤 Developer
 
 **Mikael** — React Native / Expo  
-Dibuat sebagai tugas praktikum · Open-Meteo API · 2025
+Dibuat sebagai tugas praktikum · Open-Meteo API · 2026
