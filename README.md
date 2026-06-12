@@ -105,7 +105,7 @@ npx expo start
 ## 🔗 Links
 
 - **Expo Snack**: _(https://snack.expo.dev/@mikaelll/mikael-cuacaku)_
-- **GitHub Repo**: _(link repository)_
+- **GitHub Repo**: _(https://github.com/mikaelllp/Cuacaku.git)_
 
 ---
 
